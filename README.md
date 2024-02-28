@@ -19,9 +19,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhishekSalokhe24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h2 align="left">To know more Please Visit my Portfolio link is below:</h2>
+
+###
+
+<p align="left">https://abhisheksalokheportfolio.netlify.app/</p>
 
 ###
 
@@ -29,7 +31,9 @@
 
 ###
 
-<h5 align="left">Portfolio Link : https://abhisheksalokheportfolio.netlify.app/</h5>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhishekSalokhe24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
