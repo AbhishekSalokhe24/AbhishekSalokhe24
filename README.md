@@ -76,10 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AbhishekSalokhe24/AbhishekSalokhe24/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/AbhishekSalokhe24/count.svg?"  />
 </div>
