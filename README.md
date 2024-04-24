@@ -29,15 +29,8 @@
 
 <h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe Final Year Computer Engineering Student and Full Stack Developer</h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhishekSalokhe24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I code and Learn new things</p>
+<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS <br>- ⚡ In my free time I code and Learn new things</p>
 
 ###
 
