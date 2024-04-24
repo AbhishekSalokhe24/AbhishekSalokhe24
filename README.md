@@ -29,8 +29,7 @@
 
 <h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe Final Year Computer Engineering Student and Full Stack Developer</h3>
 
-
-<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS <br>- ⚡ In my free time I code and Learn new things</p>
+<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS<br>- ⚡ In my free time I code and Learn new things</p>
 
 ###
 
@@ -60,6 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="41" alt="angularjs logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="41" alt="materialui logo"  />
 </div>
 
 ###
