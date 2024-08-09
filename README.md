@@ -28,7 +28,10 @@
 ###
 
 
+<h3 align="left">🛠 Language and tools</h3>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
   <img width="17" />
@@ -56,20 +59,17 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="41" alt="materialui logo"  />
 </div>
+
+
 ###
+
 <h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe Final Year Computer Engineering Student and Full Stack Developer</h3>
 
 <p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS<br>- ⚡ In my free time I code and Learn new things</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
-
-
-
-###
 
 
 
