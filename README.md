@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe Final Year Computer Engineering Student and Full Stack Developer</h3>
+<h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe (Software Developer)</h3>
 
 <p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS<br>- ⚡ In my free time I code and Learn new things</p>
 
