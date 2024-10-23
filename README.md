@@ -65,7 +65,7 @@
 
 <h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe (Software Developer)</h3>
 
-<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently learning Angular JS<br>- ⚡ In my free time I code and Learn new things</p>
+<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently Working in React Native to build crossplatform Mobile Apps<br>- ⚡ In my free time I code and Learn new things</p>
 
 ###
 
