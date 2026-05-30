@@ -1,75 +1,45 @@
-<div align="center">
-  <img height="267" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
-</div>
 
-###
+
+<h1 align="center">Hi there 👋, I'm Abhishek Salokhe</h1>
+<h3 align="center">Software Engineer | React & Node.js Developer | Docker & GCP Enthusiast</h3>
 
 <div align="center">
+  <a href="https://abhishek-salokhe.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge& alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/abhishek-salokhe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/abhisalokhe2424" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">ABHISHEK SALOKHE</h1>
+### 👨‍💻 About Me
 
-###
+I am a **Software Engineer at Get My Solutions** with 2 years of experience building scalable Backend and Frontend systems. I solve industry-level problems by building complex platforms and mobile applications.
 
-<h2 align="left">To know more Please Visit my Portfolio link is below:</h2>
+- 🚀 **Specialty:** Crafting clean, high-performance UI/UX solutions.
+- 💻 **Tech Stack:** Proficient across the MERN stack, Prisma ORM, and Redux Toolkit.
+- 📱 **Mobile:** Expertise in React Native to build cross-platform Mobile Apps.
+- ⚙️ **Infrastructure:** My work is backed by robust CI/CD pipelines and containerized deployments using Docker and Google Cloud Platform (GCP).
+- 🧪 **Quality:** I ensure code reliability by writing thorough test cases.
+- ⚡ **Fun Fact:** In my free time, I build side projects and love learning new skills!
+- 📍 **Location:** Pune, India.
 
-###
+---
 
-<p align="left">https://abhishek-salokhe.netlify.app/</p>
+### 🛠️ Languages and Tools
 
-###
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="41" alt="tailwindcss logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="41" alt="bootstrap logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="41" alt="angularjs logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="41" alt="materialui logo"  />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap" alt="Frontend tools" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" alt="Backend tools" /><br><br>
+    <img src="https://skillicons.dev/icons?i=docker,gcp,git,github" alt="Devops and other tools" />
+  </a>
 </div>
 
-
-###
-
-<h3 align="left">👩‍💻  About Me <br>I am Abhishek Salokhe (Software Developer)</h3>
-
-<p align="left">I'm Abhishek Salokhe from Pune<br><br>- 📚 I'm currently Working in React Native to build crossplatform Mobile Apps<br>- ⚡ In my free time I code and Learn new things</p>
-
-###
-
-
-
-
+---
 
