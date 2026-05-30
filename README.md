@@ -27,6 +27,12 @@
   </a>
 </div>
 
+---
+
+### 🚀 Projects
+
+- 🔗 **[Stint AI](https://stint-ai.netlify.app/)**
+- *...and many more upcoming!*
 
 ---
 
@@ -41,9 +47,3 @@ I am a **Software Engineer at Get My Solutions** with 2 years of experience buil
 - 🧪 **Quality:** I ensure code reliability by writing thorough test cases.
 - ⚡ **Fun Fact:** In my free time, I build side projects and love learning new skills!
 - 📍 **Location:** Pune, India.
-
----
-
-
-
-
