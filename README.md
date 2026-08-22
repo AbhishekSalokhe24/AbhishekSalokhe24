@@ -43,7 +43,7 @@ I am a **Software Engineer at Get My Solutions** with 2 years of experience buil
 - 🚀 **Specialty:** Crafting clean, high-performance UI/UX solutions.
 - 💻 **Tech Stack:** Proficient across the MERN stack, Prisma ORM, and Redux Toolkit.
 - 📱 **Mobile:** Expertise in React Native to build cross-platform Mobile Apps.
-- ⚙️ **Infrastructure:** My work is backed by robust CI/CD pipelines and containerized deployments using Docker and Google Cloud Platform (GCP).
+- ⚙️ **Infrastructure:** My work is backed by robust CI/CD pipelines and containerized deployments using Docker and Google Cloud Platform (GCP), Amazon Web Services (AWS).
 - 🧪 **Quality:** I ensure code reliability by writing thorough test cases.
 - ⚡ **Fun Fact:** In my free time, I build side projects and love learning new skills!
 - 📍 **Location:** Pune, India.
