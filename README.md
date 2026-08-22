@@ -23,7 +23,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap" alt="Frontend tools" /><br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" alt="Backend tools" /><br><br>
-    <img src="https://skillicons.dev/icons?i=docker,gcp,git,github" alt="Devops and other tools" />
+    <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,aws" alt="Devops and other tools" />
   </a>
 </div>
 
