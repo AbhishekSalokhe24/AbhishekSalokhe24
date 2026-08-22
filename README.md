@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Abhishek Salokhe</h1>
-<h3 align="center">Software Engineer | React & Node.js Developer | Docker & GCP Enthusiast</h3>
+<h3 align="center">Software Engineer | React & Node.js Developer | Docker & Cloud Enthusiast</h3>
 
 <div align="center">
   <a href="https://abhishek-salokhe.netlify.app/" target="_blank">
